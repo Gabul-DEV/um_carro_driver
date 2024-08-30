@@ -28,7 +28,7 @@
        android:requestLegacyExternalStorage="true"
         android:label="UmCarro - Motorista"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/launcher_icon"
         android:allowBackup="false"
         android:fullBackupOnly="false">
        <meta-data
